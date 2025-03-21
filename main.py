@@ -1,1 +1,1 @@
-print hola ("mundo")
+nda vezprint hola ("mundo por segunda vez")
